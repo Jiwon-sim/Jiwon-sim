@@ -14,7 +14,3 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
-
-### 📊 Stats
-![Jiwon's Stats](https://github-readme-stats.vercel.app/api?username=Jiwon-sim&show_icons=true&theme=vibrant&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiwon-sim&layout=compact&theme=vibrant&hide_border=true)
